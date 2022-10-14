@@ -9,3 +9,5 @@ You can also find instructions on how to upload programs to your calculator on g
 The only way to view the code is through the TI Connect Software, you need to download the program from this Github repository
 
 ElectricFieldProofs: Contains the four proofs we needed to memorize for the AP Physics C Exam on 10/14/22
+
+AP Physics C: Random notes that are kinda garbage. I'll make them better later
