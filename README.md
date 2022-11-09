@@ -1,6 +1,4 @@
 # TI84Programs
-AFTER USING THESE PROGRAMS, YOU WILL NEED TO HIT 2ND->ZOOM AND CHANGE AXES TO A COLOR BECAUSE THEY WILL OTHERWISE NOT APPEAR
-
 All programs have only been tested on my TI-84 Plus CE, and so I do not know if they will work on other variants of the TI-84
 
 To upload these to your calculator, you need to download Texas Instrument's TI Connect Software and use the cable that came with
