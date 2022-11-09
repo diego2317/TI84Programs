@@ -9,4 +9,5 @@ You can also find instructions on how to upload programs to your calculator on g
 The only way to view the code is through the TI Connect Software, you need to download the program from this Github repository
 
 Electric Fields: Contains basic info about electric fields, as well as the big 4 electric field proofs
+
 Gauss: Contains a bunch of info about Gauss's law, including finding E for the various scenarios
